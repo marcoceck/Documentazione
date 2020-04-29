@@ -1,0 +1,1 @@
+https://docs.microsoft.com/it-it/dotnet/framework/app-domains/how-to-load-assemblies-into-an-application-domain
